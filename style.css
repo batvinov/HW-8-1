@@ -1,0 +1,15 @@
+h3:nth-child(-n+1){
+    color: pink;
+}
+#greycol {
+    color: grey;
+}
+div>div>p{
+    color: red;
+}
+div>p:nth-child(7){
+    color: green;
+}
+div>p:nth-child(8){
+    color: yellow;
+}
